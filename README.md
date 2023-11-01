@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Volkan Yiğit</h1>
-<h3 align="center">I'm Volkan Yiğit, a computer engineering student at Eskişehir Osmangazi University who is interested in cyber security</h3>
+<h3 align="center">I'm Volkan Yiğit, a computer engineering student at Eskişehir Osmangazi University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlknygt" alt="akhilgkrishnan" /> </p>
 
-- 🔭 I' m trying to find bugs on [HackerOne](https://hackerone.com/4nt1)
+- 🔭 I'm trying to find bugs on [HackerOne](https://hackerone.com/4nt1)
 
 - 🌱 I’m currently learning **Web Application Security**
 
