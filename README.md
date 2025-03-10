@@ -10,14 +10,9 @@
 - 📫 How to reach me: volkanyigittr@gmail.com
 
 <p align="center">
-<a href="https://twitter.com/4nt1v3n0m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="4nt1v3n0m" height="30" width="30" /></a>
+<!--<a href="https://twitter.com/4nt1v3n0m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="4nt1v3n0m" height="30" width="30" /></a>-->
 <a href="https://linkedin.com/in/volkanyigitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volkanyigitt" height="30" width="30" /></a>
 </p>
-
-----
-Credit: [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
-
-Last Edited on: 28.02.2024
 
 <!--### Hi there 👋-->
 
